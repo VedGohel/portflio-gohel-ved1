@@ -1,2 +1,2 @@
-# portflio-gohel-ved1
-  <video src="portflio.mp4" alt="" width="600" controls></video> 
+# portflio-ved-gohel
+  <image src="veddd.png" alt="" width="100%" height="600"/>
